@@ -43,8 +43,7 @@
 
 ## 📫 Como me encontrar
 - GitHub: [github.com/matheusmorbeck](https://github.com/matheusmorbeck)  
-- LinkedIn: *(adicione aqui se tiver)*  
-- Email: *(adicione aqui se quiser)*  
+- Email: matheusmorbeckk@gmail.com
 
 ---
 
